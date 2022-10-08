@@ -19,3 +19,5 @@ public class Lingkaran
    jejari=r;
   }
 }
+
+/** Terima Kasih **/
