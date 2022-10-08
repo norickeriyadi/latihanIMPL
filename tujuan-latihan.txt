@@ -1,0 +1,3 @@
+Tujuan membuat tugas ini yaitu :
+- untuk mencoba merge pada github
+- mempelajari cara kerja github
