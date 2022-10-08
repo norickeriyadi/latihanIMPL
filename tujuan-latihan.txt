@@ -1,0 +1,2 @@
+Tujuan membuat tugas ini yaitu :
+- untuk mencoba merge pada github
